@@ -1,4 +1,4 @@
-# Biu.1 RAG me app for GitHub
+# Build a RAG me app for GitHub
 
 ## 專案簡介
 
