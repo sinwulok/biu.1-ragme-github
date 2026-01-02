@@ -9,7 +9,7 @@ This is an application based on Retrieval Augmented Generation (RAG), supporting
 ## Demo
 
 ### 🌟 Try it out 🥳👍 | [Try The Demo](https://gemini.google.com/share/5c9e937d9566)
-#### (Note. The Demo version only works on who might access to Google Gemini)
+(Note. The Demo version only works on who might access to Google Gemini)
 
 <div align="center">
   <img src="assets/demo-gif-1.gif" alt="demo" width="600"/>
